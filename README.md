@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **antonym1742/antonym1742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://roadmap.sh/card/tall/67fd771c6057cdb1a2b1fd8b?variant=dark
